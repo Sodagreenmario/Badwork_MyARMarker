@@ -1,4 +1,4 @@
-# Badwork_MyARMarker
+# MyARMarker
 ### The Confession
 This work was finished when at the beginning of my sophomore life. My tutor suggeseted me to do some work on AR marker even if I didn't know it. I think it's a bad work. Little preparation, weak coding ability, all these factors made me fail. However, I decided to share my last version of it, reminding me be responsible for myself.
 ### The Main Idea
